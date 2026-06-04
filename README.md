@@ -19,7 +19,7 @@ A placement preparation platform designed to help students practice Aptitude, Re
 ## Screenshots
 ## Home Page
 
-![Home Page](home.png)
+![Home Page](home.png.png)
 ## Installation
 
 1. Clone the repository
