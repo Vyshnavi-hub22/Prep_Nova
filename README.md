@@ -17,9 +17,9 @@ A placement preparation platform designed to help students practice Aptitude, Re
 - SQLite
 
 ## Screenshots
+## Home Page
 
-(Add screenshots here)
-
+![Home Page](home.png)
 ## Installation
 
 1. Clone the repository
